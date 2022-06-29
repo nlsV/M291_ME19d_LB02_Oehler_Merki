@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "schoolserver": "node 07a_StateMgmt/01_Intro/server/server.js"
+    "schoolserver": "node Webshop/server/server.js"
   },
   "dependencies": {
     "body-parser": "^1.20.0",
